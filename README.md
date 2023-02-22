@@ -10,12 +10,12 @@ Repositório para exercício dos estudos de billing do Google Cloud Plataform fe
 Processo de exportação da organização do faturamente para o BigQuery para ter mais controle sobre os gastos do projeto na empresa.
 - Tabela criada na BigQuery:
 
-![bigquery_table_1](https://user-images.githubusercontent.com/105304356/220668522-13d97b6a-9b55-4a70-9444-8d43963364f9.png)
+![bigquery_table_1](https://user-images.githubusercontent.com/105304356/220712691-6824e8ba-a47b-4a01-bf6a-9d5e1421c3b3.png)
+
 
 
 - Exemplo de dashboard com a fonte de dados da Bigquery:
 
-![dashboard_bq_gcp1](https://user-images.githubusercontent.com/105304356/220669065-4debbd80-be85-4b3d-9276-227b675be5d1.png)
-
+![datastudio_billing](https://user-images.githubusercontent.com/105304356/220712157-23e507d3-04a2-47d1-bcdc-f5a01fc8f489.png)
 
 
